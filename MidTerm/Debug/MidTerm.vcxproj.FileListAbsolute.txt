@@ -1,0 +1,2 @@
+E:\Project\VS\MidTerm\Debug\MidTerm.exe
+E:\Project\VS\MidTerm\Debug\MidTerm.pdb
